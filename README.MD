@@ -21,9 +21,9 @@ This program is developed by [Node.js](https://nodejs.org/) and does not need to
 `ReadPam inputFile.pam`
 
 Then it will output three JSON files in a folder called "output".
-* SpritesList.JSON   It contains the data of the split images that appear in the animations.
-* SubAnimsList.JSON   It contains the data of sub animations. In Adobe Flash the sub animation is usually called "graphic symbol" or "movie clip symbol".
-* MainAnims.JSON   It contains the data of the main animation.
+* SpritesList.JSON-It contains the data of the split images that appear in the animations.
+* SubAnimsList.JSON-It contains the data of sub animations. In Adobe Flash the sub animation is usually called "graphic symbol" or "movie clip symbol".
+* MainAnims.JSON-It contains the data of the main animation.
 
 ### Contribute
 
