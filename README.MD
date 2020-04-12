@@ -29,4 +29,4 @@ Then it will output three JSON files in a folder called "output".
 
 Everyone is welcome to make the program better.
 
-If you use my program to make more achievement, I hope you can publish it on the Internet too.
+If you use my program to make more achievement, such as you find how to compile the JSON files to a complete FLA file, I hope you can publish it on the Internet too.
