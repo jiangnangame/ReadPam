@@ -136,7 +136,7 @@ const readScript = (reader, currentFrame) => {
          while(keep) {
              let cmdLength = reader.ReadInt16();
              let cmdName = reader.ReadBytes(cmdLength).toString();
-             if(/^[\w+|\0x20]+$/.test(cmdName)) {
+             if(/^[\w|\x20]+$/.test(cmdName)) {
                 currentFrame.FSCmd.push({
                     'CmdName': cmdName,
                     'Arg': reader.ReadBytes(reader.ReadInt16()).toString()
