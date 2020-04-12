@@ -18,6 +18,8 @@ This program is developed by [Node.js](https://nodejs.org/) and does not need to
 
 ### Usage
 
+Make sure you have installed the latest version of Node.js on your computer.
+
 `ReadPam inputFile.pam`
 
 Then it will output three JSON files in a folder called "output".
