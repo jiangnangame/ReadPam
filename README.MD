@@ -10,7 +10,7 @@ So I decide to publish its source code and everyone can try to make it better.
 ### Disclaimer
 The program is unstable and may not work as expected when it reads some PAM files.
 
-For educational purposes only. You must not use the program for commercial purposes, otherwise the legal issues should be resolved by yourself.
+<font color=red>For educational purposes only. You must not use the program for commercial purposes, otherwise the legal issues should be resolved by yourself.</font>
 
 ### Build
 
