@@ -1,4 +1,4 @@
-import ReadPam from '../source/lib.mjs';
+import ReadPam from '../source/ReadPam.mjs';
 import fs from 'fs';
 import path from 'path';
 const dir = '../example/';
